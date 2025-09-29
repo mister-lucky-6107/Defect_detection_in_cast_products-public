@@ -1,0 +1,2 @@
+# Defect_detection_in_cast_products-public
+画像分類とセグメンテーションのマルチタスク学習による欠陥検出
